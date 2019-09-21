@@ -15,7 +15,8 @@ Please excuse the messy code and poor format.  I chose to leave the code untouch
    The program was made using the Jupyter Notebook editor, which was very useful for input / output analysis of my task.  It also allows for a very linear documentation of my model.
    
    As for the results, my model fails in several ways.  Although I tried my best to consider my methods by purpose, I was too inexperienced with computer science to know of standard methods to reduce noise and best prepare the image for computer vision.  I also now realize that I had taken a regression problem, converted it into a classification problem, and then tried to produce regression results.  This poor understanding of the task also led to the inaccurate count of emojis in the testing data.  While these failures remain, I am proud of them because they show potential for personal growth and guide my studies as I continue to become a better individual.
-
+   
+   Included in the repository is a PowerPoint presentation I made to showcase my project to my class (not that this was a class project).
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 References:
