@@ -8,6 +8,8 @@ Please excuse the messy code and poor format.  I chose to leave the code untouch
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+## Process and Experience Reflection
+
    I developed this project from March 2017 - May 2017. In 2016 and 2017, I was in high school and just beginning to find passion in computer science.  This project reflects my exploration of more complex machine learning topics, as well as marks my first experience in Python.  Most importantly in this project, I was able to learn the process of development for a machine learning model, in which you must take into account the origin and nature of the data you wish to represent. 
    
    I was inspired by the YouTue channel Welch Labs, and his video series Learning to See, in which he incrementally develops a decision tree learning model for computer vision.  What struck me most about his videos compared to the many other machine learning videos on YouTube is that he contextualizes his process and his choices within modern understandings of data driven science.  While my program uses the same algorithm and a similar task, I made it a goal for myself to use his videos as a resource for understanding, and not a guide.  By doing this, I was able to practice the process of development and contextualization in terms of my own task.
@@ -20,7 +22,7 @@ Please excuse the messy code and poor format.  I chose to leave the code untouch
    
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-References:
+## References
 
 Greensted, Andrew. "Otsu Thresholding." The Lab Book Pages.  17 June 2010. Web. 11 May 2017.
 
