@@ -2,6 +2,8 @@
 
 Python implementation of the ID3 algorithm for decision tree learning on the task of computer vision.
 
+<img src="./TestingData/Color/CircleThree.png" alt="Tested Image" width="20%" height="20%"><img src="./TestingData/Predictions/CircleThreePredictions.png" alt="Predicted Image" width="21.5%" height="21.5%"><img src="./TestingData/Color/CircleFive.png" alt="Tested Image" width="20%" height="20%"><img src="./TestingData/Predictions/CircleFivePredictions.png" alt="Predicted Image" width="21.5%" height="21.5%">
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Please excuse the messy code and poor format.  I chose to leave the code untouched so that I could most directly show my understanding of computer science at the time, and thus my progress as a computer scientist since then.
